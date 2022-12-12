@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38b5c857-0923-4c21-a88b-d2dfd96a4e9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scala-training/Scala-training.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/libraries/sbt__org_scala_lang_scala3_library_3_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala-training/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/modules/Scala-training-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/modules/Scala-training.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/src/main/scala/lectures/ValuesVariablesTypes.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-training/src/main/scala/playground/Playground.scala" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IairiLlg0F6S1ai8bUJP97MLep" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/aelhadyn/Desktop/Training"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38b5c857-0923-4c21-a88b-d2dfd96a4e9b" name="Changes" comment="" />
+      <created>1670426297059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670426297059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

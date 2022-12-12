@@ -1,5 +1,0 @@
-package lectures
-
-object ValuesVariablesTypes {
-
-}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae2baf67-0a3e-47f2-b29f-252cef3b7aef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/libraries/sbt__org_scala_lang_scala3_library_3_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/modules/Scala-training-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/modules/Scala-training.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/scala_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/src/main/scala/lectures/ValuesVariablesTypes.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala-training/src/main/scala/playground/Playground.scala" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IGFuEvW5RPk3aYwHwHd4qB0xRB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae2baf67-0a3e-47f2-b29f-252cef3b7aef" name="Changes" comment="" />
+      <created>1669800236220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669800236220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
