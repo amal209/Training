@@ -1,0 +1,5 @@
+package OOBasics
+
+object MethodNotations {
+
+}
